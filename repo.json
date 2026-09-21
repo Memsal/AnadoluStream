@@ -1,0 +1,8 @@
+{
+    "name": "AnadoluStream",
+    "description": "Mehmet Salih Sarı tarafından hazırlanan güncel Cloudstream eklenti deposu",
+    "author": "Mehmet Salih Sari",
+    "iconUrl": "https://raw.githubusercontent.com/Memsal/AnadoluStream/master/icon.png",
+    "manifestVersion": 1,
+    "plugins": []
+}
